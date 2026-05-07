@@ -3,8 +3,8 @@
 Este projeto tem como objetivo desenvolver um sistema para gerenciamento de uma rede de cinemas, permitindo o controle de cinemas, filmes, sessões e público das exibições.
 O sistema possibilita cadastrar cinemas e filmes, organizar sessões e consultar informações relacionadas aos filmes em cartaz e quantidade de espectadores.
  Levantamento de Requisitos
-✅ Requisitos Funcionais (RF)
-RF01 – Cadastrar Cinema
+Requisitos Funcionais (RF)
+## RF01 – Cadastrar Cinema
 O sistema deve permitir cadastrar cinemas com os seguintes dados:
 
 
@@ -24,7 +24,7 @@ Capacidade de público
 
 
 
-RF02 – Cadastrar Filme
+## RF02 – Cadastrar Filme
 O sistema deve permitir cadastrar filmes contendo:
 
 
@@ -44,7 +44,7 @@ Elenco
 
 
 
-RF03 – Cadastrar Sessão
+## RF03 – Cadastrar Sessão
 O sistema deve permitir cadastrar sessões informando:
 
 
@@ -64,13 +64,13 @@ Data
 
 
 
-RF04 – Registrar Público
+## RF04 – Registrar Público
 O sistema deve permitir registrar a quantidade de espectadores de cada sessão.
 
-RF05 – Consultar Filmes em Cartaz
+## RF05 – Consultar Filmes em Cartaz
 O sistema deve permitir visualizar os filmes exibidos em cada cinema.
 
-RF06 – Consultar Público
+## RF06 – Consultar Público
 O sistema deve permitir consultar:
 
 
@@ -135,7 +135,7 @@ Consultar Sessões
 
 
 
-🏗️ Diagrama de Classes do Domínio
+## Diagrama de Classes do Domínio
 Classe: Cinema
 Atributos
 
@@ -202,7 +202,7 @@ publico
 
 
 
-🔗 Relacionamentos
+## Relacionamentos
 
 
 Um Cinema pode possuir várias Sessões.
