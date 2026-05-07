@@ -218,6 +218,31 @@ Cada Sessão exibe apenas um Filme.
 
 
 
+## Diagrama de Casos de Uso
+
+<img width="474" height="546" alt="image" src="https://github.com/user-attachments/assets/fbf228a3-d445-470b-b759-8bddb1e5c79f" />
+
+
+## Diagrama de Classes 
+
+<img width="200" height="364" alt="image" src="https://github.com/user-attachments/assets/dced8303-aa90-4183-a41f-6feebcc20705" />
+
+## Diagrama de Atividade — Cadastrar Filme
+
+<img width="190" height="333" alt="image" src="https://github.com/user-attachments/assets/9a37d459-a3c3-4a10-9a3a-bf45a7494b46" />
+
+## Diagrama de Atividade — Registrar Público
+
+<img width="351" height="452" alt="image" src="https://github.com/user-attachments/assets/a2d8d109-298b-4b75-a881-c5340e10576c" />
+
+## Diagrama de Sequência — Cadastrar Filme
+
+<img width="718" height="457" alt="image" src="https://github.com/user-attachments/assets/94277cdd-64a5-47fc-9c3c-0ecd5ed1f524" />
+
+## Diagrama de Sequência — Registrar Público
+
+<img width="756" height="501" alt="image" src="https://github.com/user-attachments/assets/ea587503-9143-4829-b564-bcacf01b77cf" />
+
 
 
 
